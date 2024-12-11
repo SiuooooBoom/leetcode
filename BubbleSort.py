@@ -30,4 +30,3 @@ while True:
         mp(tl[:])
         print('--------开始逆冒泡排序--------')
         mp_reverse(tl[:])
-    else：
